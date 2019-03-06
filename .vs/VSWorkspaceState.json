@@ -1,10 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\msdyncrmWorkflowTools",
-    "\\msdyncrmWorkflowTools\\msdyncrmWorkflowTools_Class",
-    "\\msdyncrmWorkflowTools\\msdyncrmWorkflowTools_ConsoleTest"
+    "\\msdyncrmWorkflowTools\\msdyncrmWorkflowTools",
+    "\\msdyncrmWorkflowTools\\msdyncrmWorkflowTools\\Class"
   ],
-  "SelectedNode": "\\msdyncrmWorkflowTools\\msdyncrmWorkflowTools.sln",
   "PreviewInSolutionExplorer": false
 }
